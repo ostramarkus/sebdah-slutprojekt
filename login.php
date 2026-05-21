@@ -32,4 +32,7 @@ $_SESSION['loggedIn'] = TRUE;
 $_SESSION['userId'] = $user['id'];
 header('Location: members.php');
 
-?>
+?>   
+
+
+

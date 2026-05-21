@@ -4,20 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sebastian slutprojekt</title>
-
 <style>
 
 
 
 form {
-    background-color: white;
+    background-color: pink;
     width: 400px;
     margin: auto;
     margin-top: 100px;
     
     width: 400px;
     height: 300px;
-    background-color: rgb(255, 255, 255);
+    background-color: pink
     border: 1px solid black;
     padding: 10px;
 
@@ -65,7 +64,7 @@ body {
 </form>
 
 <form action="register.php" method="post">
-        <h2>Skapa konto</h2>
+        <h2>Skapa ditt konto</h2>
         <p><input type="text" name="username" placeholder="Användarnamn"></p>
         <p><input type="password" name="password" placeholder="Lösenord"></p>
         <p><input type="email" name="email" placeholder="E-post"></p>
